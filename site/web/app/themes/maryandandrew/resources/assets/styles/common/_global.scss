@@ -1,0 +1,14 @@
+// Base styles
+body {
+  @extend .bg-primary;
+}
+
+.bg-white {
+  background-color: $white !important;
+}
+
+.wrap {
+  @extend .bg-white;
+
+  min-height: 100vh;
+}

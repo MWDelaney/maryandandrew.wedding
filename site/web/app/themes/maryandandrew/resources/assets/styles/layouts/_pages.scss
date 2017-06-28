@@ -1,0 +1,8 @@
+// Pages
+
+.page-header h1 {
+  @extend .mb-0;
+
+  padding-top: $spacer*6;
+  padding-bottom: $spacer*6;
+}
