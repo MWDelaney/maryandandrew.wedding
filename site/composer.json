@@ -39,7 +39,8 @@
     "johnpbloch/wordpress": "4.8.0",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/disable-comments": "*"
+    "wpackagist-plugin/disable-comments": "*",
+    "wpackagist-plugin/wedding-registry": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
