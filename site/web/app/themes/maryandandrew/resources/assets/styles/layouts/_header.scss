@@ -1,6 +1,5 @@
 // Header
 .banner {
-  position: fixed;
   left: 0;
   right: 0;
   z-index: 1000;
@@ -13,13 +12,4 @@
 
 .banner .nav a {
   @extend .nav-link;
-}
-
-.headroom {
-  will-change: transform;
-  transition: transform 200ms linear;
-}
-
-.headroom--not-top {
-  box-shadow: 0 3px 5px 0 rgba(50, 50, 50, 0.5);
 }

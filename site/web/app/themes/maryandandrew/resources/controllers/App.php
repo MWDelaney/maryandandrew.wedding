@@ -6,7 +6,7 @@ use Sober\Controller\Controller;
 
 class App extends Controller
 {
-    public function siteName()
+    public function sitename()
     {
         return get_bloginfo('name');
     }

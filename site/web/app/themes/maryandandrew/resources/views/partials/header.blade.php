@@ -1,4 +1,7 @@
-<header class="banner">
+<div class="container text-center my-5">
+  <h1>{{ $sitename }}</h1>
+</div>
+<header class="banner sticky-top">
 		<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
 			<div class="container">
 					<button class="navbar-toggler navbar-toggler-right py-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
